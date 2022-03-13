@@ -1,0 +1,14 @@
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\bin\Release\Kursovik_NONOGRAMM.exe.config
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\bin\Release\Kursovik_NONOGRAMM.exe
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\bin\Release\Kursovik_NONOGRAMM.pdb
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\obj\Release\Kursovik_NONOGRAMM.csproj.AssemblyReference.cache
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\obj\Release\Kursovik_NONOGRAMM.ChoiseLevel.resources
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\obj\Release\Kursovik_NONOGRAMM.Description.resources
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\obj\Release\Kursovik_NONOGRAMM.Form1.resources
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\obj\Release\Kursovik_NONOGRAMM.Menu.resources
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\obj\Release\Kursovik_NONOGRAMM.Properties.Resources.resources
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\obj\Release\Kursovik_NONOGRAMM.Results.resources
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\obj\Release\Kursovik_NONOGRAMM.csproj.GenerateResource.cache
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\obj\Release\Kursovik_NONOGRAMM.csproj.CoreCompileInputs.cache
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\obj\Release\Kursovik_NONOGRAMM.exe
+C:\Users\enifa\source\repos\Kursovik_NONOGRAMM_2\Kursovik_NONOGRAMM\obj\Release\Kursovik_NONOGRAMM.pdb
